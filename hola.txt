@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include <windows.h>
+#include <windows.c>
 
 #include <math.h>
 
